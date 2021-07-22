@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <meta charset="utf-8">
+  <title>Doc</title>
+  <link rel="stylesheet" href="style4.css">
+</head>
+<script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
+<body>
+    
+    <header class="header">
+        <div class="header-container">
+    	    <div class="left-menu">
+            <div class="logo"><a href="indekc.html" class="logos"><img src="img1/logos.svg" alt="ring"></a></div>
+            <div class="search">
+            <a href="#" class="search"><img src="img1/search.svg" alt="search"></a></div>
+          </div>
+
+<div class="right-menu">
+
+     <div class="right-logo"><a href="" class="submenu-link"><img src="img1/list.svg" alt="list"></a>
+       <nav>
+         <ul class="topmenu">
+          <li><a href="" class="submenu-link"></a>
+           <ul class="submenu">
+             <h2>MENU</h2>
+              <p class="spisok">MAN</p>
+              <li><a href="">Accessories</a></li>
+              <li><a href="">Bags</a></li>
+              <li><a href="">Denim</a></li>
+              <p class="spisok">WOMEN</p>
+              <li><a href="">Accessories</a></li>
+              <li><a href="">Jackets&Coats</a></li>
+              <li><a href="">Polos</a></li>
+              <li><a href="">T-Shirts</a></li>
+              <li><a href="">Shirts</a></li>
+              <p class="spisok">KIDS</p>
+              <li><a href="">Accessories</a></li>
+              <li><a href="">Jackets&Coats</a></li>
+              <li><a href="">Polos</a></li>
+              <li><a href="">T-Shirts</a></li>
+              <li><a href="">Shirts</a></li>
+              <li><a href="">Bags</a></li>
+           </ul>
+         </li>
+         </ul>
+      </nav>
+   </div>
+        <div class="lk">
+          <a href="#" class="man"><img src="img1/man.svg" alt="lk"></a>
+        </div>
+        <div class="corb">
+          <a href="#" class="corb"><img src="img1/corb.svg" alt="corb"></a>
+        </div>
+  </div>
+    
+
+    </header>
+  
+
+
+	<div class="cherdac">
+		 <div class="main-pics">
+            <div class="model"><img src="img1/model.svg" alt="model"></div>
+		   <div class="brandy"><img src="img1/brandy.svg" alt="brandy"></div>
+		</div>  
+	</div>
+	
+
+
+	<div class="container">
+       <div class="blox">
+          <div class="basement">
+            
+	            <div class="item1">
+                    <a class="ites-link" href="#">
+		            <h3 class="sale">30% OFF</h3></br>
+		            <h2 class="for">FOR WOMEN</h2></a>
+	            </div>
+
+	            <div class="item2">
+                    <a class="ites-link" href="#">
+		            <h3 class="sale">HOT DEAL</h3></br>
+		            <h2 class="for">FOR MEN</h2></a>
+	            </div>
+ 
+	            <div class="item3">
+                    <a class="ites-link" href="#">
+		            <h3 class="sale">NEW ARRIVALS</h3></br>
+		            <h2 class="for">FOR KIDS</h2></a>
+	           </div>
+ 
+          </div>
+               <a class="ites-link" href="#">
+    	        <div class="item4">
+		            <h3 class="TRENDY">LUXIROUS & TRENDY</h3></br>
+		             <h2 class="ACC">ACCESORIES</h2>
+                 </div>
+             </a>
+
+
+
+
+
+
+         <div class="text">
+                     <p class="fetured">Fetured items</p>
+                     <p class="based">Shop for items based on what we featured in this week</p>
+         </div>
+      
+
+
+  
+    <div class="tovary">
+     <div class="tovar1">  
+         
+      <div class="banner">
+        <section class="ites-box">
+          <div class="ites-flex">
+            <div class="ites">
+            <a class="ites-link" href="#">
+              <img class="ites-img" src="img1/1.svg" alt="photo">
+              <div class="ites-txt-box">
+                <p class="ites-desc">ELLERY XMO CAPSULE</p>
+                <p class="paragraf">Known for her sculptural takes on traditional tailoring, Australian arbiter or cool Kym Ellery teams up</p>
+                <p class="ites-price">$52.00</p>
+              </div>
+            </a>
+            <div class="add-box">
+            <a class="add" href="#">
+              <img src="img1/corb.svg" alt="corb1">
+              <p class="add-txt">Add to Cart</p></a>
+            </div>
+        </div>
+
+        <div class="ites">
+            <a class="ites-link" href="#">
+              <img class="ites-img" src="img1/image.svg" alt="photo">
+              <div class="ites-txt-box">
+                <p class="ites-desc">ELLERY XMO CAPSULE</p>
+                <p class="paragraf">Known for her sculptural takes on traditional tailoring, Australian arbiter or cool Kym Ellery teams up</p>
+                <p class="ites-price">$52.00</p>
+              </div>
+            </a>
+            <div class="add-box">
+            <a class="add" href="#">
+              <img src="img1/corb.svg" alt="corb1">
+              <p class="add-txt">Add to Cart</p>
+
+            </a>
+            </div>
+        </div>
+
+        <div class="ites">
+            <a class="ites-link" href="#">
+              <img class="ites-img" src="img1/3.svg" alt="photo">
+              <div class="ites-txt-box">
+                <p class="ites-desc">ELLERY XMO CAPSULE</p>
+                <p class="paragraf">Known for her sculptural takes on traditional tailoring, Australian arbiter or cool Kym Ellery teams up</p>
+                <p class="ites-price">$52.00</p>
+              </div>
+            </a>
+            <div class="add-box">
+            <a class="add" href="#">
+              <img src="img1/corb.svg" alt="corb1">
+              <p class="add-txt">Add to Cart</p>
+
+            </a>
+            </div>
+        </div>
+
+
+               <div class="ites">
+            <a class="ites-link" href="#">
+              <img class="ites-img" src="img1/4.svg" alt="photo">
+              <div class="ites-txt-box">
+                <p class="ites-desc">ELLERY XMO CAPSULE</p>
+                <p class="paragraf">Known for her sculptural takes on traditional tailoring, Australian arbiter or cool Kym Ellery teams up</p>
+                <p class="ites-price">$52.00</p>
+              </div>
+            </a>
+            <div class="add-box">
+            <a class="add" href="#">
+              <img src="img1/corb.svg" alt="corb1">
+              <p class="add-txt">Add to Cart</p>
+
+            </a>
+            </div>
+        </div>
+        <div class="ites">
+            <a class="ites-link" href="#">
+              <img class="ites-img" src="img1/5.svg" alt="photo">
+              <div class="ites-txt-box">
+                <p class="ites-desc">ELLERY XMO CAPSULE</p>
+                <p class="paragraf">Known for her sculptural takes on traditional tailoring, Australian arbiter or cool Kym Ellery teams up</p>
+                <p class="ites-price">$52.00</p>
+              </div>
+            </a>
+            <div class="add-box">
+            <a class="add" href="#">
+              <img src="img1/corb.svg" alt="corb1">
+              <p class="add-txt">Add to Cart</p>
+
+            </a>
+            </div>
+        </div>
+        <div class="ites">
+            <a class="ites-link" href="#">
+              <img class="ites-img" src="img1/6.svg" alt="photo">
+              <div class="ites-txt-box">
+                <p class="ites-desc">ELLERY XMO CAPSULE</p>
+                <p class="paragraf">Known for her sculptural takes on traditional tailoring, Australian arbiter or cool Kym Ellery teams up</p>
+                <p class="ites-price">$52.00</p>
+              </div>
+            </a>
+            <div class="add-box">
+            <a class="add" href="#">
+              <img src="img1/corb.svg" alt="corb1">
+              <p class="add-txt">Add to Cart</p></a>
+            </div>
+         </div>
+       </div>
+     </section>
+    </div>
+
+</div>
+</div>
+
+          <div class="button">
+               <a href="#" class="top_button">Browse All Products</a>
+          </div>
+    
+</div>
+</div>
+  
+
+      <div class="cherniy">
+        <div class="cherniy-blox"> 
+         <div class="delivery"><img src="img1/delivery.svg" alt="del">
+            <h4 class="free">Free Delivery</h4></br>
+        	<h4 class="worldwide">Worldwide delivery on all. Authorit tively morph next-generation innov tion with extensive models.</h4>
+         </div>
+    
+          <div class="sales"><img src="img1/sales.svg" alt="sales">
+            <h4 class="free">Free Delivery</h4></br>
+        	<h4 class="worldwide">Worldwide delivery on all. Authorit tively morph next-generation innov tion with extensive models.</h4>
+          </div>
+
+
+           <div class="crown"><img src="img1/crown.svg" alt="crown">
+            <h4 class="free">Free Delivery</h4></br>
+        	<h4 class="worldwide">Worldwide delivery on all. Authorit tively morph next-generation innov tion with extensive models.</h4>
+           </div>
+        </div>
+     </div>
+
+
+    <div class="verhpodvala">
+        <div class="licopodvala">
+    	     <div class="podvallico"><img src="img1/lico.svg" alt="lico">
+    	       <h4 class="licotext">Worldwide delivery on all. Authorit tively morph next-generation innov tion with extensive models.</h4>
+            </div>
+        
+            <div class="sub"><h3 class="subscribe">SUBSCRIBE</h3></br>
+              <h4 class="subtext">For our newletter and promotion</h4>
+              <input type="email" class="email" placeholder="enter your email"><a href="#" class="email_button">SUBSCRIBE</a>
+            </div>   
+        </div>    
+    </div>
+
+
+      <div class="footer">
+        <div class="footer_blox">
+          <div class="footer_text">Copyright &copy:Ola-la-la Все права защищены лично мной</div>
+            <div class="iconics">
+             <div class="iconic"><a href=""><img src="img1/f.svg" alt="facebook"></a></div>
+             <div class="iconic"><a href=""><img src="img1/i.svg" alt="insta"></a></div>
+             <div class="iconic"><a href=""><img src="img1/p.svg" alt="pin"></a></div>
+             <div class="iconic"><a href=""><img src="img1/t.svg" alt="twitter"></a></div>  
+            </div>                  
+      </div>
+
+
+
+	</body>
+	</html>
